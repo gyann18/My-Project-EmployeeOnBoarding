@@ -72,3 +72,6 @@ This project is built using **React.js** for the frontend and **Node.js with Exp
 ```bash
 git clone https://github.com/gyann18/My-Project-EmployeeOnBoarding.git
 cd onboarding-backend
+## 📊 Project Presentation
+
+📥 [Download PDF Presentation](EmployeeOnboardingApplicationPPT-5.pdf)
