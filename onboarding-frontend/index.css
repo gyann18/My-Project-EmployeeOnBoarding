@@ -1,0 +1,20 @@
+/* index.css */
+
+/* Resetting default margins and paddings */
+body, h1, h2, h3, p, ul, ol {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Applying basic styles to the root element */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  /* Adding some padding to the main content */
+  .container {
+    padding: 20px;
+  }
+  

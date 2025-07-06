@@ -1,0 +1,17 @@
+{
+  "name": "onboarding-backend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "jest": "^27.4.6" 
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --testEnvironment=node" 
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}

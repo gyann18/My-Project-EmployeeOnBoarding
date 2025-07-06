@@ -1,0 +1,57 @@
+/* src/SearchEmployee.css */
+
+.search-employee-container {
+  display: flex;
+  justify-content: right; 
+  align-items: right; 
+  height: 10vh; 
+}
+
+.background-image {
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi10c-xM080Cd9O3jwgfGAehKrpVkt_0s7eahk3jijBXmA7iOyVPfsmn8nEZwP2XKjsKLVzzIsByJ4PIrO-aD0x90zOVez9UFVVB56k-Zm9Q9xjTJ0B9Jnuevfss1Lp_ZR3Qw22ZAavBpZHwF1GVakaSGJbZW7utadafrdAeD2NDi25VYY7gW9iSsaQffA/w665-h461/employeeonboardingg.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.content {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  max-width: 290px;
+  width: 100%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content h2 {
+  margin-top: 0;
+}
+
+.content input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.content button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.content button:hover {
+  background-color: #0056b3;
+}

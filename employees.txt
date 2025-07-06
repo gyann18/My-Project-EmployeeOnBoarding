@@ -1,0 +1,7 @@
+{"name":"Amrita","id":"2345","contact":"8051592455","address":"Bihar","salary":"20000","dateOfJoining":"2024-05-09"}
+{"name":"Arav","id":"2329","contact":"8051596425","address":"Bihar","salary":"50000","dateOfJoining":"2024-05-29"}
+{"name":"Pragya","id":"2365","contact":"96652145","address":"Odisha","salary":"600000","dateOfJoining":"2024-04-11"}
+{"name":"Manish","id":"1213","contact":"9102552164","address":"Noida","salary":"30000","dateOfJoining":"2024-05-02"}
+{"name":"Gyan Prakash","id":"1416","contact":"8051592456","address":"Patna","salary":"200000","dateOfJoining":"2025-05-21"}
+{"name":"Deepak","id":"1415","contact":"8021546598","address":"Delhi","salary":"30000","dateOfJoining":""}
+{"name":"","id":"","contact":"","address":"","salary":"","dateOfJoining":""}
